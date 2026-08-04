@@ -1,7 +1,5 @@
-body{
-    font-family:sans-serif;
-    margin:40px;
-    transition:.2s;
+*{
+    font-family:"Fira Code", monospace;
 }
 
 .dark{background:#111;color:#fff;}
