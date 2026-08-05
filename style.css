@@ -1,16 +1,41 @@
-*{
-    font-family:"Fira Code", monospace;
+* {
+    font-family: "Fira Code", monospace;
     font-weight: normal;
 }
 
-.dark{background:#111;color:#fff;}
-.light{background:#fff;color:#111;}
+body {
+    margin: 0;
+    padding: 20px;
+    min-height: 100vh;
+}
 
-button{
-    position:absolute;
-    top:20px;
-    right:20px;
-    cursor:pointer;
-    font-size:1.2rem;
-    padding:.4rem .7rem;
+.dark {
+    background: #111;
+    color: #fff;
+}
+
+.light {
+    background: #fff;
+    color: #111;
+}
+
+button {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    cursor: pointer;
+    font-size: 1.2rem;
+    padding: 0.4rem 0.7rem;
+}
+
+.dark button {
+    background: #111;
+    color: #fff;
+    border: 1px solid #fff;
+}
+
+.light button {
+    background: #fff;
+    color: #111;
+    border: 1px solid #111;
 }
