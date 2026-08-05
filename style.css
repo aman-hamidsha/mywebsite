@@ -39,3 +39,21 @@ button {
     color: #111;
     border: 1px solid #111;
 }
+
+a {
+    color: inherit;
+    font: inherit;
+    text-decoration: underline;
+}
+
+a:hover {
+    cursor: pointer;
+}
+
+.dark a:visited {
+    color: #bbb;
+}
+
+.light a:visited {
+    color: #555;
+}
