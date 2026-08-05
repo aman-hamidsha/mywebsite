@@ -16,4 +16,4 @@ button.onclick = () => {
 
 const footer = document.createElement("footer");
 footer.innerHTML = "&copy; 2026 aman hamidsha";
-document.body.appendChild(footer);
+document.body.appendChild(footer); // okay
