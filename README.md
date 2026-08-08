@@ -1,2 +1,2 @@
-# my professional portfolio  
-## you can view it [here](https://amanh.cc)
+# a website about me and my work
+view [here](https://amanh.cc)
