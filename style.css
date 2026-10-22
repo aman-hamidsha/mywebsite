@@ -63,3 +63,8 @@ footer {
     left: 20px;
     font-size: 0.9rem;
 }
+
+
+strong {
+    font-weight: 700;
+}
