@@ -14,6 +14,4 @@ button.onclick = () => {
     button.textContent = newTheme === "dark" ? "light" : "dark";
 };
 
-const footer = document.createElement("footer");
-footer.innerHTML = "&copy; 2026 aman hamidsha";
-document.body.appendChild(footer); // okay
+
